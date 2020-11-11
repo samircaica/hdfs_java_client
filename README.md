@@ -3,6 +3,7 @@
 cd hdfs_java_client
 
 cp /etc/hadoop/conf/hdfs-site.xml .
+
 cp /etc/hadoop/conf/core-site.xml .
 cp /etc/hbase/conf/hbase-site.xml .
 
