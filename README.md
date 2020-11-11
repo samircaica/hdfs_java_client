@@ -19,8 +19,8 @@ cd libs
 
 # For CDH:
 
-cp /opt/cloudera/parcels/CDH/lib/hadoop/hadoop-common.jar .<br />
-cp /opt/cloudera/parcels/CDH/lib/hadoop/hadoop-auth.jar .<br />
+cp /opt/cloudera/parcels/CDH/lib/hadoop/hadoop-common.jar .  
+cp /opt/cloudera/parcels/CDH/lib/hadoop/hadoop-auth.jar .  
 cp /opt/cloudera/parcels/CDH/lib/hadoop/hadoop-annotations.jar .<br />
 cp /opt/cloudera/parcels/CDH/lib/hadoop/client/hadoop-hdfs.jar .<br />
 cp /opt/cloudera/parcels/CDH/lib/hadoop/client/htrace-core4.jar .<br />
