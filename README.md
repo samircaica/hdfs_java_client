@@ -65,7 +65,7 @@ jar cvfm HdfsTest.jar manifest.txt HdfsTest.class libs
 
 # Usage:
 
-java -jar HdfsTest.jar \<Active NN\> \<ANN port \> <path> <user> <auth>
+java -jar HdfsTest.jar \<Active NN\> \<ANN port \> \<path\> \<user\> \<auth\>
 
 a. java -jar HdfsTest.jar a.b.com 8020 / hdfs kerberos
 
