@@ -1,0 +1,17 @@
+Main-Class: HdfsTest
+Class-Path: libs/commons-cli.jar
+  libs/commons-codec.jar
+  libs/commons-collections.jar
+  libs/commons-configuration.jar
+  libs/commons-lang.jar
+  libs/commons-logging.jar
+  libs/guava.jar
+  libs/hadoop-annotations.jar
+  libs/hadoop-auth.jar
+  libs/hadoop-common.jar
+  libs/hadoop-hdfs.jar
+  libs/htrace-core4.jar
+  libs/log4j.jar
+  libs/protobuf-java.jar
+  libs/slf4j-api.jar
+  libs/slf4j-log4j12.jar
