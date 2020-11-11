@@ -65,7 +65,7 @@ jar cvfm HdfsTest.jar manifest.txt HdfsTest.class libs
 
 # Usage:
 
-java -jar HdfsTest.jar <Active NN> <ANN port > <path> <user> <auth>
+java -jar HdfsTest.jar \<Active NN\> \<ANN port \> <path> <user> <auth>
 
 a. java -jar HdfsTest.jar a.b.com 8020 / hdfs kerberos
 
@@ -75,8 +75,8 @@ b. java -jar HdfsTest.jar a.b.com 8020 / hdfs simple
 
 1. Get a valid Kerberos ticket
 
-2. java -jar HdfsTest.jar <Active NN> 8020 / hdfs kerberos
+2. java -jar HdfsTest.jar \<Active NN\> 8020 / hdfs kerberos
 
 # Non kerberos:
 
-1 java -jar HdfsTest.jar <Active NN> 8020 / hdfs simple
+1 java -jar HdfsTest.jar \<Active NN\> 8020 / hdfs simple
